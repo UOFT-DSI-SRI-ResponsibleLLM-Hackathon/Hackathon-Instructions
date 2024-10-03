@@ -47,7 +47,7 @@ All teams must submit the following by **12:00 PM on October 5th**:
 
 ### Final Presentation:
 - Upload your presentation and all relevant materials to the OneDrive folder: [Onedrive](https://utoronto-my.sharepoint.com/:f:/g/personal/jiessie_tie_mail_utoronto_ca/EoRpBto2fWdFnkp9QwbpfJ4B1G-5IgT9hpernV4PgicBFw).
-- Ensure that your group folder on OneDrive contains a dedicated folder named "Final Submission," which includes the final version of your presentation and a Google Doc with a detailed account of your design process. The document should describe:
+- Ensure that your team folder on OneDrive contains a dedicated folder named "Final Submission," which includes the final version of your presentation and a Google Doc with a detailed account of your design process. The document should describe:
   - Any designs or models you came up with during the hackathon.
   - A thorough breakdown of your thought process, including any changes, challenges, and solutions encountered during development.
 
