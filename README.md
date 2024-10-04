@@ -65,9 +65,10 @@ Make sure to include your designs, thought processes, and any AI-related models 
 ## Judging Rubric
 
 Your projects will be evaluated based on the following criteria. Each criterion is broken down into key components, using a 5-point scale (1 = Needs Improvement, 5 = Excellent).
-- **Applicability:** Quality of the solution proposed in relation to the theme.
-- **Technology:** Engineering skill of the project demonstrated, quality of the LLM integration.
-- **Design:** Innovation and creativity of the project, how much interest this project creates.
+- **Idea Originality**: The project presents a unique and well-defined idea that aligns with the hackathon theme of responsible AI. The idea effectively addresses a challenge or improves upon a current solution. The solution demonstrates clear potential for impact or practicality.
+- **Technical Complexity**: The project incorporates at least one AI-driven component to achieve its goals. This category evaluates how technically challenging the solution is and how much the team learned during the development process.
+- **Technical Integration**: The system is well-integrated with seamless interactions between its components, including effective use of LLMs. The project is free from significant bugs, and complex AI-driven components are properly handled and functional.
+- **Working Demo**:The demo showcases a fully functional system that works smoothly and effectively demonstrates the core features. The demo clearly explains how the system operates and how LLMs contribute to the solution.
 
 If you have any questions or run into issues, feel free to reach out to us on Slack or email Jiessie Tie at [jiessie.tie@mail.utoronto.ca](mailto:jiessie.tie@mail.utoronto.ca).
 
