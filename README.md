@@ -16,9 +16,9 @@ Welcome to the Responsible LLM Hackathon! In this event, you will work together 
 
 ### Day 1: October 4th, 2024
 **Location:** Schwartz Reisman Innovation Campus, North Winters Garden (10th floor)  
-- **7:30 AM:** Registration & Breakfast  
-- **8:00 AM:** Welcome & Instructions Overview  
-- **8:15 AM - 12:00 PM:** Hackathon Begins  
+- **8:00 AM:** Registration & Breakfast  
+- **9:00 AM:** Welcome & Instructions Overview  
+- **9:15 AM - 12:00 PM:** Hackathon Begins  
 - **12:00 PM:** Lunch Break  
 - **1:00 PM:** Hacking Continues  
 - **5:00 PM - 6:00 PM:** Hackathon & Dinner  
